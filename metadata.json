@@ -1,6 +1,0 @@
-{
-  "name": "DS Stack Visualizer",
-  "description": "An interactive stack operations learning platform for Data Structures Laboratory, featuring visual animations, a simulator, pseudo-code execution, complexity analysis, real-world applications, quiz, and practice problems.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
